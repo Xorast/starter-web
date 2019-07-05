@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Astor - <name>
 
 # TECHNOLOGY COLOPHON
 
